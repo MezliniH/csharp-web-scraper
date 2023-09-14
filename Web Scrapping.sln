@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Scrapping", "Web Scrapping\Web Scrapping.csproj", "{3AA973E3-5C53-4628-8DEC-7137FD936C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA973E3-5C53-4628-8DEC-7137FD936C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA973E3-5C53-4628-8DEC-7137FD936C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA973E3-5C53-4628-8DEC-7137FD936C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA973E3-5C53-4628-8DEC-7137FD936C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C227F9-20C8-45E2-A5A5-A01B8E3149A8}
+	EndGlobalSection
+EndGlobal
